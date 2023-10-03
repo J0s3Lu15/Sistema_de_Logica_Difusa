@@ -1,6 +1,11 @@
 # Sistema de Lógica Difusa para Recomendación Académica
 ![Vista Previa](vista_previa1.jpg)
 
+## Características:
+- El sistema es capaz de dar diferentes recomendaciones personalizadas para cada caso
+- Contiene 54 reglas difusas para cubrir todos los casos habidos y por haber
+- Es capaz de volverse aún mas complejo, contiene solo un sistema de control difuso, pero es capaz de unirse con varios sistemas y asi formar un tutor mas complejo que admita mas variables y consecuencias.
+
 ## Descripción:
 Este README proporciona una explicación detallada del código Python llamado "TutorAcademico.py", que implementa un sistema de lógica difusa para brindar recomendaciones académicas a estudiantes universitarios. El sistema utiliza variables difusas para evaluar el desempeño académico del estudiante y recomendar la cantidad de materias que debería dar de baja en función de ciertas condiciones.
 
