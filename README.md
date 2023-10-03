@@ -1,5 +1,5 @@
 # Sistema de Lógica Difusa para Recomendación Académica
-![Vista Previa](vista_previa.jpg)
+![Vista Previa](vista_previa1.jpg)
 
 ## Descripción:
 Este README proporciona una explicación detallada del código Python llamado "TutorAcademico.py", que implementa un sistema de lógica difusa para brindar recomendaciones académicas a estudiantes universitarios. El sistema utiliza variables difusas para evaluar el desempeño académico del estudiante y recomendar la cantidad de materias que debería dar de baja en función de ciertas condiciones.
